@@ -14,5 +14,5 @@
 		git commit -m "Initialisation"
 6. Синхронизируем локальную папку с проектом с удалённой репозиторием на GitHub (делается один раз, для каждого проекта)
 	git remote add origin https://github.com/SokolDDev/shuffle-words-game.git
-7. Пушим все коммиты
-	git push -u origin --all
+7. Пушим
+	git push -u origin main
